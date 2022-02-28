@@ -4,7 +4,7 @@
 ## :man_technologist: About me
 - :school: I am a `Junior Student` at Faculty of Science and Technology at Thammasat University
 - :student: I’m currently learning: `Computer Science`.
-- :thinking: I’m currently open for: `An Intern`, this is [MY RESUME](https://drive.google.com/file/d/1eYYJdboiiYd2oiNz1c5Wvi5AxmZSygLU/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern`, this is [MY RESUME](https://drive.google.com/file/d/1ea3nrMZbLX0qX-yKnd9hGXED84u0DSa-/view?usp=sharing).
 - :nerd_face: Ready to `learning new things`
 
 <div>
